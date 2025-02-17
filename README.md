@@ -1,4 +1,4 @@
-# do-python-code
+# do-bash-code
 
 Compile:
 
